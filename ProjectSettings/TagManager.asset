@@ -6,6 +6,14 @@ TagManager:
   tags:
   - Cart
   - Board
+  - Apple
+  - Pear
+  - Orange
+  - lb_bird
+  - AppleZone
+  - OrangeZone
+  - PearZone
+  - TeleportHub
   layers:
   - Default
   - TransparentFX
